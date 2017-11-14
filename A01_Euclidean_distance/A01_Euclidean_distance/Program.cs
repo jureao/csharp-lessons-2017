@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace A01_Euclidean_distance
 {
+//Change
     class Program
     {
         static void Main(string[] args)
